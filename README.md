@@ -27,4 +27,4 @@ Five agents orchestrated via prompt injection in Claude Desktop with Alpaca MCP:
 3. Run the agent:
     ( python vwap_agent.py )
 ## DEMO
-Watch the demo video: [insert link]
+Watch the demo video: [[insert link]](https://youtu.be/tCgd2Rl42M8?si=MWcZq3ywJ2dEdQx1)
