@@ -23,8 +23,8 @@ Five agents orchestrated via prompt injection in Claude Desktop with Alpaca MCP:
 1. Configure Alpaca paper API keys in `.env`:
 2. Install dependencies:
     bash
-    pip install alpaca-py pandas numpy python-dotenv
+    (pip install alpaca-py pandas numpy python-dotenv)
 3. Run the agent:
-     python vwap_agent.py 
+    ( python vwap_agent.py )
 ## DEMO
 Watch the demo video: [insert link]
